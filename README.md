@@ -5,9 +5,12 @@ Each folder corresponds to the codes for one computational experiment
 Folder "oil" contains the extended oil wildcatter codes.
 Folder "turbine" contains the turbine inspection and maintenance codes.
 Folder "water_cvar" contains the risk averse water management codes.
-
-Folder "results" contains the results used in the paper. 
+Folder "Results" contains the results used in the paper. 
 Additionally, the folder contains the seeds used to create random instances in the computational experiments.
+Folder "Printing" contains codes to calculate statistics over multiple random instances. Note that
+to run the codes within this folder, you must start julia server from this folder. Alternatively, you 
+can edit the file paths according to your preferences.
+
 If you wish to reproduce the results of the paper, use the seeds given in the files. Then all the scripts
 should work without modifications.
 If you wish to test the codes with new random instances, follow this procedure:
