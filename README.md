@@ -2,9 +2,9 @@
 
 Each folder corresponds to the codes for one computational experiment
 
-Folder "oil" contains the extended oil wildcatter codes
-Folder "turbine" contains the turbine inspection and maintenance codes
-Folder "water_cvar" contains the risk averse water management codes
+Folder "oil" contains the extended oil wildcatter codes.
+Folder "turbine" contains the turbine inspection and maintenance codes.
+Folder "water_cvar" contains the risk averse water management codes.
 
 Folder "results" contains the results used in the paper. 
 Additionally, the folder contains the seeds used to create random instances in the computational experiments.
